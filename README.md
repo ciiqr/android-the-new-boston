@@ -23,6 +23,3 @@ This is my project for the (now outdated) android development series from The Ne
 * Text to Speech (TextToSpeechActivity)
 * Notifications (StatusBarNotifications)
 * Volume Control (VolumeSeekBarActivity)
-
-
-* EditText
