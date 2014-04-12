@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/aboutTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hey there all you lovely people, I don&apos;t know why you are reading this, and honestly I don&apos;t care, though I do care about you, whoever you are :)\nBe strong and happy my fellow human." />
+
+</LinearLayout>

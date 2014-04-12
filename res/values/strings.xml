@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheNewBoston</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world! Sup Humans?</string>
+    
+    <string name="displayTextLabel">Your total is 0</string>
+    <string name="btnAddLabel">Add one</string>
+    <string name="btnSubLabel">Subtract one</string>
+    
+    <string name="edTxtCommands.Hint">Type a Command</string>
+    <string name="btnResults.Text">Try Command</string>
+    <string name="tBPassword.Text">ToggleButton</string>
+    <string name="tVDisplay.Text">invalid</string>
+    
+    <string name="btnSendEmail.Text">Send Email</string>
+    
+    <string name="btnBrowBack">Back</string>
+    <string name="btnBrowForward">Forward</string>
+    <string name="btnBrowRefresh">Refresh</string>
+    <string name="btnBrowHistClear">Clear History</string>
+    <string name="btnGo">Go</string>
+    <string name="PointlessWidgetConfigActivity">vill.will.thenewboston.PointlessWidgetConfig</string>
+    
+    
+    
+</resources>
